@@ -1,5 +1,9 @@
 # redscript practice
 
+```sh
+npm install -g redscript@0.1.0
+```
+
 ## References
 
 * [RedScript by AdamBrodzinski](http://redscript.org/)
